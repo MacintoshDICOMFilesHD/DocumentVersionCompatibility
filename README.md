@@ -1,0 +1,2 @@
+# DocumentVersionCompatibility
+Active Patch DocumentMaxChannelsKey
